@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-family: verdana;
+    padding: 40px;
+    text-align: center;
+  }
+  div {
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(247, 254, 255);
+    padding: 30px;
+    text-align: justify;
+  }
+
+  h5 {
+    text-align: center;
+    padding: 40px;
+    background-color:rgb(225, 217, 217);
+  }
